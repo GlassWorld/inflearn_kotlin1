@@ -1,8 +1,6 @@
 package com.glass.java.act02;
 
-import com.glass.java.act01.Person;
-
-public class Act01 {
+public class Act02 {
     
     public static void main(String[] args) {
 
